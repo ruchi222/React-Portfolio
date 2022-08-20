@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://ruchi222.github.io/",
     "name": "Ruchika Gosain",
     "role": "Frontend Developer and Digital Marketer",
     "linkedinId":"https://www.linkedin.com/in/ruchika-gosain/",
@@ -16,7 +16,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I",
     "address":"Canada",
     "website":"https://socialflyweb.com",
     "education":[
