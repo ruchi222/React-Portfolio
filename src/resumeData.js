@@ -40,7 +40,7 @@ let resumeData = {
         "CompanyName":"Some Company",
         "specialization":"Some specialization",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "YearOfLeaving":"2022",
         "Achievements":"Some Achievements"
       },
       {
