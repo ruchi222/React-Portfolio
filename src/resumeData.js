@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://ruchi222.github.io/",
     "name": "Ruchika Gosain",
-    "role": "Frontend Developer and Digital Marketing",
+    "role": "Frontend Developer, React Developer and Digital Marketing",
     "linkedinId":"https://www.linkedin.com/in/ruchika-gosain/",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
